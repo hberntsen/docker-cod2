@@ -9,4 +9,4 @@ RUN chown -R cod2:cod2 /home/cod2
 
 USER cod2
 WORKDIR /home/cod2
-ENTRYPOINT /home/cod2/cod2_lnxded +map mp_toujane
+ENTRYPOINT /home/cod2/cod2_lnxded +exec config.cfg

@@ -8,4 +8,7 @@ If you want to customize the server.cfg file you can mount
 /home/cod2/main/config_mp_server.cfg as a volume.
  
 Config generator: http://callofduty2.infinity-shell.net/cod2config/
+
 Server binary source: http://callofduty.filefront.com/file/Call_of_Duty_2_v13_Dedicated_Linux_Server;65402
+
+Punkbuster binary source: http://www.pbbans.com/forums/files/call-of-duty-2-linux-file87.html
